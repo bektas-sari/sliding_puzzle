@@ -95,7 +95,7 @@ Academia: [Independent Profile](https://independent.academia.edu/bektassari)<br>
 
 ## 📃 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the
 
 ---
 
