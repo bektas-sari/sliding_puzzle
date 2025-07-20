@@ -85,11 +85,11 @@ final int gridSize = 3; // Try 4 or 5
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [Independent Profile](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
+GitHub: [bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [Independent Profile](https://independent.academia.edu/bektassari)<br>
 
 ---
 
