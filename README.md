@@ -1,9 +1,7 @@
-# 🧩 Sliding Puzzle
+# 🧩 Sliding Puzzle (Flutter APP)
 
 A modern and interactive **image-based sliding puzzle game** built with Flutter.
 Reconstruct the original image by sliding tiles into the empty slot.
-
-![screenshot](assets/screenshot.png)
 
 ---
 
