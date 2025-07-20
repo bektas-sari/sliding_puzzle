@@ -51,8 +51,8 @@ assets/
 ### Install
 
 ```bash
-git clone https://github.com/bektas-sari/sliding_puzzle_flutter.git
-cd sliding_puzzle_flutter
+git clone https://github.com/bektas-sari/sliding_puzzle.git
+cd sliding_puzzle
 flutter pub get
 flutter run
 ```
